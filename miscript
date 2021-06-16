@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo -n "Your name here:"
+read -e NOMBRE
+
+echo "Hola "$NOMBRE
